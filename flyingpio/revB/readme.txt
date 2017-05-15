@@ -17,3 +17,4 @@ It's electrically fine, though.
 * Schematic and board layout have PWM pins in opposite order.  Electrically
 correct, but PWM0 is labelled on board art (and in firmware) as Servo6,
 PWM1 as Servo5, ...
+* PB1 is not five-volt tolerant but has a receiver pin hooked to it.
