@@ -1,0 +1,41 @@
+Reference, Quantity, Value, Footprint, Datasheet, manf#
+C1 C12 C13 C14 C18 C19 C25 C26 C27 C28 C29 C31 C32 C33 C34 C35 C37 C40 C42 C49 C50 C6 C7 C8 ,24,0.1uF,Capacitors_SMD:C_0402,,0402ZD104KAT2A
+C21 ,1,DNP,Capacitors_SMD:C_0402,,DNP
+C16 C22 C36 C38 C39 C41 C43 ,7,22nF,Capacitors_SMD:C_0402,,0402YC223KAT2A
+C10 C11 C15 C17 C2 C20 C23 C24 C3 C4 C44 C47 C48 C5 C9 ,15,2.2uF,Capacitors_SMD:C_0402,,GRM155R61A225KE95D
+D1 ,1,SML-D12Y1WT86,LEDs:LED_0603,http://rohmfs.rohm.com/en/products/databook/datasheet/opto/led/chip_mono/sml-d12x1w-e.pdf,SML-D12Y1WT86
+D2 D3 ,2,PMEG3010EB,Diodes_SMD:SOD-523,http://datasheet.octopart.com/PMEG3010EB%2C115-Philips-datasheet-12552804.pdf,PMEG3010EB,115
+HOLE1 HOLE2 HOLE3 HOLE4 ,4,M3-HOLE,Mounting_Holes:MountingHole_3mm,,Mechanical
+JP1 ,1,Jumper_NO_Small,Capacitors_SMD:C_0603_HandSoldering,,DNP
+L1 ,1,MLZ2012N150LT000,Capacitors_SMD:C_0805,https://product.tdk.com/info/en/catalog/datasheets/inductor_commercial_decoupling_mlz1608_en.pdf,MLZ2012N150LT000
+P1 P5 P6 ,3,CONN_01X03,dro:Pin_Header_Straight_1x03,,PINBAG
+P10 P9 ,2,CONN_01X06,dro:Pin_Header_Straight_1x06,,PINBAG
+P11 ,1,10118194-0001LF,dro:microusb-10118194,,10118194-0001LF
+P12 P2 P8 ,3,CONN_01X02,dro:Pin_Header_Straight_1x02,,PINBAG
+P13 ,1,DNP,Connectors_Molex:Molex_Pico-EZmate_04x1.20mm_Angled,,DNP
+P3 P4 ,2,CONN_01X09,dro:Pin_Header_Straight_1x09,,PINBAG
+P7 ,1,CONN_01X05,dro:Pin_Header_Straight_1x05,,PINBAG
+Q1 ,1,BC817-40W,TO_SOT_Packages_SMD:SOT-323,http://www.nxp.com/documents/data_sheet/BC817_BC817W_BC337.pdf,BC817-40W
+R1 R25 R26 R3 R4 ,5,DNP,Resistors_SMD:R_0402,,DNP
+R10 R13 R14 R9 ,4,560R,Resistors_SMD:R_0402,,ERJ-2GEJ561X
+R11 R16 R17 R22 R23 R24 R6 ,7,22R,Resistors_SMD:R_0402,,ERJ-2GEJ220X
+R12 R2 ,2,75R,Resistors_SMD:R_0402,,ERJ-6ENF75R0V
+R20 R21 ,2,62R1%,Resistors_SMD:R_0402,,ERJ-2RKF62R0X
+R27 ,1,1K5,Resistors_SMD:R_0402,,ERJ-2GEJ152X
+R5 ,1,681k1%,Resistors_SMD:R_0402,,ERJ-2RKF6813X
+R15 R18 R19 R7 R8 ,5,2k2,Resistors_SMD:R_0402,,ERJ-2GEJ222X
+RP1 RP2 RP4 RP5 ,4,22,Resistors_SMD:R_Array_Concave_4x0402,http://datasheet.octopart.com/EXB-N8V220JX-Panasonic-datasheet-13266625.pdf,EXB-N8V220JX
+RP3 ,1,15k,Resistors_SMD:R_Array_Concave_4x0402,http://datasheet.octopart.com/EXB-N8V220JX-Panasonic-datasheet-13266625.pdf,EXB-N8V153JX
+U1 ,1,STM32F405RGT,Housings_QFP:LQFP-64_10x10mm_Pitch0.5mm,http://www.st.com/content/ccc/resource/technical/document/datasheet/ef/92/76/6d/bb/c2/4f/f7/DM00037051.pdf/files/DM00037051.pdf/jcr:content/translations/en.DM00037051.pdf,STM32F405RGT6
+U10 ,1,BMP280,dro:BMP280-LGA-8,https://ae-bst.resource.bosch.com/media/_tech/media/datasheets/BST-BMP280-DS001-12.pdf,BMP280
+U11 ,1,LIS3MDL,dro:ST-VFLGA-12,http://www.st.com/content/ccc/resource/technical/document/datasheet/54/2a/85/76/e3/97/42/18/DM00075867.pdf/files/DM00075867.pdf/jcr:content/translations/en.DM00075867.pdf,LIS3MDLTR
+U12 ,1,BMI160,dro:BMI160-LGA25x30,http://datasheet.octopart.com/BMI160-Bosch-datasheet-38537435.pdf,BMI160
+U13 ,1,TJA1051TK/3,Housings_DFN_QFN:DFN-8-1EP_3x3mm_Pitch0.65mm,http://www.nxp.com/documents/data_sheet/TJA1051.pdf,TJA1051TK/3/1J
+U2 ,1,LM1881,Housings_SOIC:SOIC-8_3.9x4.9mm_Pitch1.27mm,http://www.ti.com/lit/ds/symlink/lm1881.pdf,LM1881M/NOPB
+U3 ,1,LMH6643MM,Housings_SSOP:MSOP-8_3x3mm_Pitch0.65mm,http://www.ti.com/general/docs/lit/getliterature.tsp?genericPartNumber=lmh6644&fileType=pdf,LMH6643MM
+U4 U6 ,2,74AHCT1G86SE-7,TO_SOT_Packages_SMD:SOT-353,http://www.diodes.com/_files/datasheets/74AHCT1G86.pdf,74AHCT1G86SE-7
+U5 ,1,TS5A23157,dro:TI-QFN10-20x15,http://www.ti.com/lit/ds/symlink/ts5a23157.pdf,TS5A23157RSER
+U7 ,1,WS2812B,dro:WS2812B,https://cdn-shop.adafruit.com/datasheets/WS2812.pdf,WS2812B
+U8 U9 ,2,MIC5318-3.3YMT,dro:TMLF-6,http://ww1.microchip.com/downloads/en/DeviceDoc/mic5318.pdf,MIC5318-3.3YMT-TR
+W1 ,1,AC_VID,Measurement_Points:Measurement_Point_Round-SMD-Pad_Small,,Mechanical
+X1 ,1,CSTCE8M00G15L99-R0,dro:X3-SMD-3.6X1.3X0.8MM,http://www.murata.com/en-us/api/pdfdownloadapi?cate=&partno=CSTCE8M00G15L99-R0,CSTCE8M00G15L99-R0
